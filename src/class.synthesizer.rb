@@ -26,6 +26,8 @@ class Synthesizer
     @synth = javax.sound.midi.MidiSystem.synthesizer
     @synth.open
     
+    puts "\n#{@synth.getDefaultSoundbank().getName()}\n"
+
     @instrument_names =  @synth.availableInstruments.collect { |i| i.name }
    
     @channel_ids = []
