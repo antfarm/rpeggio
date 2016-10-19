@@ -30,7 +30,7 @@ class Midi
 
     # setup devices
     devices = []
-    [0].each do |i|
+    [1].each do |i|
       devices[i] = javax.sound.midi.MidiSystem.getMidiDevice info[i]
       devices[i].open
       devices[i].transmitter.receiver = self
