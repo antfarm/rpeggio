@@ -3,7 +3,7 @@
 #  (sean@antfarm.de)
 #
 
-require 'class.midi.rb'
+require './class.midi.rb'
 
 #
 #  Environment

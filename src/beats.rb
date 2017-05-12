@@ -4,8 +4,8 @@
 #  beat.rb
 #
 
-require 'class.looper.rb'
-require 'class.synthesizer.rb'
+require './class.looper.rb'
+require './class.synthesizer.rb'
 
 # looper parameters
 

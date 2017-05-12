@@ -1,6 +1,6 @@
 #!/usr/bin/env jruby  
 
-require 'class.external_synthesizer.rb'
+require './class.external_synthesizer.rb'
 
 # main
 

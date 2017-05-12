@@ -12,7 +12,7 @@ NUM_CELLS       = 400
 CELL_STATES     = [' ', '*']
 NEIGHBORHOOD    = [-1, 0, 1]
 
-require 'class.cells1d.rb'
+require './class.cells1d.rb'
 
 cells = Cells1D.new(NUM_CELLS)
 cells.set_parameters(CELL_STATES, NEIGHBORHOOD)

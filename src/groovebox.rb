@@ -4,7 +4,7 @@
 #  groovebox.rb
 #
 
-require "class.groovebox.rb"
+require "./class.groovebox.rb"
 
 include Scales
 

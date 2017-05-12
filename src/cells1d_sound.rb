@@ -1,7 +1,7 @@
 #!/usr/bin/env jruby
 
-require "class.cells1d_sound.rb"
-require "module.scales.rb"
+require "./class.cells1d_sound.rb"
+require "./module.scales.rb"
 
 #
 #  cells1d_sound.rb

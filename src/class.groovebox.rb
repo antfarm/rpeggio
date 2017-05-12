@@ -4,10 +4,10 @@
 #  class.groovebox.rb
 #
 
-require 'class.looper.rb'
-require 'class.synthesizer.rb'
-require 'class.environment.rb'
-require 'class.external_synthesizer.rb'
+require './class.looper.rb'
+require './class.synthesizer.rb'
+require './class.environment.rb'
+require './class.external_synthesizer.rb'
 
 #
 #  Groovebox

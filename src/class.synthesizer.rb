@@ -5,7 +5,7 @@
 
 require 'java'
 
-require 'module.scales.rb'
+require './module.scales.rb'
 
 #
 #  Synthesizer

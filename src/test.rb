@@ -1,7 +1,7 @@
 #!/usr/bin/env jruby
 
-require "class.synthesizer.rb"
-require "module.scales.rb"
+require "./class.synthesizer.rb"
+require "./module.scales.rb"
 
 include Scales
 

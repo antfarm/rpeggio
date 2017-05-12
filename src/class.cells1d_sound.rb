@@ -1,10 +1,10 @@
 #!/usr/bin/env jruby
 
-require 'class.cells1d.rb'
-require 'class.looper.rb'
-require 'class.environment.rb'
-require 'class.synthesizer.rb'
-require 'class.external_synthesizer.rb'
+require './class.cells1d.rb'
+require './class.looper.rb'
+require './class.environment.rb'
+require './class.synthesizer.rb'
+require './class.external_synthesizer.rb'
 
 #
 #  Cells1DSound

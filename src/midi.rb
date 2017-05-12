@@ -4,7 +4,7 @@
 #  midi.rb
 #
 
-require 'class.midi.rb'
+require './class.midi.rb'
 
 class MidiListener
   def handle_midi_message(channel, controller, value)

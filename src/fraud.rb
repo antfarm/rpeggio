@@ -4,8 +4,8 @@
 #  fraud.rb
 #
 
-require 'class.looper.rb'
-require 'class.synthesizer.rb'
+require './class.looper.rb'
+require './class.synthesizer.rb'
 
 # instruments and scales (cf. http://en.wikipedia.org/wiki/General_MIDI)
 
